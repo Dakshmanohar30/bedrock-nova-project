@@ -1,0 +1,28 @@
+# Environment files (ALL .env anywhere)
+.env
+**/.env
+
+# Python virtual environments
+venv/
+**/venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+*.log
+
+# Node / React
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
